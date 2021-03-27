@@ -1,0 +1,5 @@
+﻿Pizza, 30.00
+Soda, 10.00
+Cake, 35.00
+Salad, 55.00
+Milk Shake, 80.00
